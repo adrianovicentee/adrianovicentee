@@ -1,7 +1,7 @@
 
 
 
-## Olá Seja Bem-vindo! Eu sou o Adriano Vicente, Desenvolvedor WEB Back-End
+## Olá Seja Bem-vindo! Eu sou o Adriano Vicente, Desenvolvedor Web Back-End
 <div align="center">
   <a href="https://github.com/adrianovicentee">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adrianovicentee&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
@@ -9,7 +9,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrianovicentee&layout=compact&langs_count=7&theme=blue-green"/>
 </div>
 
-  ## Habilidades Profissionais:
+  ## 
 <div style="display: inline_block"><br>
 <img align="center" alt="adrianovicentee-PHP" height="40" width="90" border-radius="10" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
 
@@ -28,7 +28,7 @@
   <img align="right" alt="" height="150" style="border-radius:50px;" src="#">
 </div>
   
-  ## Redes Sociais:
+  ## 
  
 <div> 
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
